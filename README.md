@@ -6,6 +6,7 @@ A novel framework for non-rigid registration in minimally invasive surgery, leve
 
 # Fig.1
 ![fig1](https://github.com/user-attachments/assets/67807296-623f-4c44-bad9-61ec0c7c8a3a)
+
 Fig. 1. Visualization of tissue deformation and partial overlaps in minimally invasive surgery. Different frames from endoscopic video demonstrate significant non-rigid deformations and varying degrees of overlap caused by continuous laparoscope movement during surgical procedures.
 
 
